@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://fast-modular-project.com/" target="_blank">
-    <img src="./fmp.png" height="130px" alt="FMP Logo"/>
+    <img src="https://fast-modular-project.com/assets/imgs/logo.png" height="130px" alt="FMP Logo"/>
   </a>
 </p>
 
